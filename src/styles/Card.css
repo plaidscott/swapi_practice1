@@ -1,0 +1,11 @@
+.Card {
+  height: 25vh;
+  width: 15vw;
+  background-color: purple;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 40px;
+  display: inline-block;
+}
